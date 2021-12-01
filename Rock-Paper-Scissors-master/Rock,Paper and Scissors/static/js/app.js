@@ -1,5 +1,5 @@
 //  Rock,Paper and Scissors
-//*************************
+
 // Creat a function which is link with div of HTML
 function rpsgame(yourchoice) {
   console.log(yourchoice);
